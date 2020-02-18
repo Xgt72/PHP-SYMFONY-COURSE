@@ -1,0 +1,13 @@
+{
+    "name": "wilder/twig",
+    "description": "challenge twig quest",
+    "authors": [
+        {
+            "name": "Xgt72",
+            "email": "xavier.georget@wildcodeschool.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
